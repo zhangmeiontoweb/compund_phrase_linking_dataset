@@ -1,0 +1,516 @@
+
+sheikh
+an Arab ruler
+
+sixth-former
+a student in the sixth form
+
+schoolmate
+a friend who is at the same school as you at the same time
+2
+
+roommate
+a person who you share an apartment or house with
+2
+
+classmate
+someone who is in the same class as you at school
+2
+
+workmate
+a person who works in the same place as you, especially one who you are friendly with
+2
+
+shipmate
+A sailor's shipmate is another sailor who works on the same ship as they do.
+2
+
+bedmate
+someone who you share your bed with
+2
+
+seatmate
+someone you sit next to or share a seat with on an airplane, train, bus, etc.
+
+playmate
+a child who another child plays with
+
+flatmate
+a person who you share an apartment or house with
+
+cellmate
+somebody who shares a cell with another prisoner
+
+bunkmate
+a person who you share an apartment or house with
+
+viscount
+the title of a British man of high social rank, between an earl and a baron
+
+viscountess
+a woman who has the rank of viscount
+
+viceroy
+someone who represents a king or queen and rules for him or her in another country
+
+
+sheikh
+an Arab ruler or head of a group of people
+
+
+royal prerogative
+the special rights of the ruling king or queen
+
+
+princess
+the wife of a prince
+
+
+peeress
+a female peer
+
+lord
+a male peer
+
+peerage
+the position of being a peer
+
+noblewoman
+a (gender (member of the nobility
+
+nobleman
+a member of the nobility
+
+marquis
+a man of high social rank in Europe
+
+marquess
+a man of high social rank in Europe
+
+marquise
+the wife of a marquis 
+
+marchioness
+the wife of a marquess
+
+maharani
+the wife of a maharaja
+
+madam
+a (title for a (gender used before a position
+2
+
+ma'am
+a (title for a (gender used before a position
+2
+
+life peer
+ a person who is given the honour of a title such as "Lord" 
+
+liege
+a (gender (leader
+1
+
+Lady
+a title given in the UK to a woman or girl, or to the wife of a peer or knight
+
+knight
+a man given a rank of honour by a British king or queen
+
+HRH
+a (title of some (member of a royal (family
+1
+
+honours list
+the list of people who are given special titles
+
+Highness
+a title used when referring to an important member of a family that rules a country
+
+esquire
+a (title added after a (gender (name on envelopes and official documents
+
+emperor
+a (gender (leader of an empire
+1
+
+empress
+a (gender (leader of an empire
+1
+
+empress
+the (spouse of a (gender (leader of an empire
+2
+
+emir
+a (leader of particular (country in the Muslim world
+1
+
+earl
+(the title of) a British man of high social rank
+
+duke
+the (leader of a small independent (country
+1
+
+dukedom
+the rank of a duke
+
+duchess
+the (title of a (gender (spouse
+2
+
+dowager
+a woman of high social rank whose husband is dead but who has a title and property because of her marriage to him
+
+dame
+a woman
+
+tsarina
+the (spouse of a the (gender Russian (leader
+2
+
+tsarina
+the (gender Russian (leader
+1
+
+czarina
+the (spouse of a the (gender Russian (leader
+2
+
+czarina
+the (gender Russian (leader
+1
+
+crowned head
+a king or queen
+
+crown prince
+the man who will be king of a country when the ruling king or queen dies
+
+crown princess
+the woman who will be queen of a country when the ruling king or queen dies,
+
+crown princess
+the wife of a crown prince
+
+archduke
+a man of very high rank
+
+baron
+a low-ranking male member of the nobility 
+
+baroness
+the wife of a baron
+
+be in line to the throne
+to be the person who will become king or queen after the present ruler
+
+count heads
+to count the number of people present somewhere
+
+count
+a European man of the same social rank as an English earl
+
+countess
+a woman of high social rank, or the wife of a count or earl
+
+mature age student
+a student at a college or university who is older than the usual age
+
+lass
+a girl or young woman
+
+lassie
+a girl or young woman
+
+
+colleen
+a (gender (country
+2
+
+wench
+a young woman
+
+schoolmarm
+a female school teacher
+
+
+bachelorette
+a woman, especially a young woman, who has never married
+
+dame
+a woman
+
+
+bachelor
+a man who has never married
+
+widower
+a man whose wife or husband has died and who has not married again
+
+missus
+wife
+
+lad
+a boy or young man
+
+tween
+a child between the ages of approximately eight and twelve
+
+batchmate
+someone who is in the same year as you at school, college, or university
+
+co-ed
+a female student in a college with male and female students
+
+homeschooler
+a parent who teaches their child at home rather than sending them to school
+
+entrant
+a person who becomes a member of a group or organization
+
+mature student
+a student at a college or university who is older than the usual age
+
+mature age student
+a student at a college or university who is older than the usual age
+
+senior
+the age of A is older than the age of B
+
+older
+the age of A is older than the age of B
+
+elder
+the age of A is older than the age of B
+
+younger
+the age of A is younger than the age of B
+
+junior
+the age of A is younger than the age of B
+
+taller
+the height of A is higher than the height of B
+
+shorter
+the height of A is lower than the height of B
+
+smaller
+the size of A is smaller than the size of B
+
+bigger
+the size of A is bigger than the size of B
+
+larger
+the size of A is bigger than the size of B
+
+huger
+the size of A is bigger than the size of B
+
+greater
+the size of A is bigger than the size of B
+
+vaster
+the size of A is bigger than the size of B
+
+higher
+the height of A is higher than the height of B
+
+lower
+the height of A is lower than the height of B
+
+wider
+the width of A is wider than the height of B
+
+narrower
+the width of A is narrower than the height of B
+
+heavier
+the weight of A is heavier than the weight of B
+
+lighter
+the weight of A is lighter than the weight of B
+
+fatter
+the weight of A is heavier than the weight of B
+
+slimmer
+the weight of A is lighter than the weight of B
+
+deeper
+the depth of A is deeper than the depth of B
+
+shallower
+the depth of A is shallower than the depth of B
+
+longer
+the length of A is longer than the length of B
+
+shorter
+the length of A is shorter than the length of B
+
+co-writer/coauthor
+A is author of B, and C is also the author of B
+
+co-wife
+A is spouse of B, and A is also the spouse of C
+
+co-star
+A is actor of B, and C is also the actor of B
+
+co-pilot
+
+co-worker/workmate
+
+co-chairman
+
+co-editor
+
+co-president
+
+cochair
+
+co-found
+
+co-owner
+
+cosponsor
+
+co-operator
+
+co-member
+
+co-manager
+
+
+compatriot
+a person who comes from the same country
+
+cross-border
+relate to people from different countries
+
+dual nationality/citizenship
+the nationality of two countries at the same time
+
+expatriate
+someone who does not live in their own country
+
+international
+related to more than one country
+
+internationalism
+the state of being international
+
+multinational
+relate to several different countries
+
+neighbour
+someone who lives very close to you
+
+overseas
+in, from, or to other countries
+
+successor state
+a new smaller country formed after a larger country has been divided up
+
+suzerain
+a country that partly controls another country, or the ruler of such a country
+
+the old country
+the country that a person or a person's family originally came from
+
+abroad
+in or to a foreign country or countries
+
+aerotropolis
+a city that has an airport
+
+Cantabrigian
+relating to the town or university of Cambridge in England,
+
+Dumfries
+a town in southwestern Scotland
+
+native place
+the town or city or area that a person is from, especially the one in which they were born and lived while young
+
+new town
+a town in the UK that did not develop gradually but was planned and created by the government
+
+sister city
+a town or city that shares planned activities and visits with a similar town in another country
+
+twin town
+a town or city that shares planned activities and visits with a similar town in another country
+
+Mecca
+the holy city of Islam in Saudi Arabia
+
+Christian name
+in Western countries, the first name and not the family name
+
+code name
+a special word or name that is used instead of the real name of someone or something to keep the real name secret
+
+Jnr
+refer to the younger of two men in the same family who have the same name
+
+maiden name
+A woman's maiden name is the family name she has before she gets married
+
+married name
+A woman's married name is the family name she takes after getting married
+
+matronymic
+a name that is based on the given name (= the name given at birth) of someone's mother or one of their mother's ancestors
+
+patronymic
+a name that is based on the given name (= the name given at birth) of someone's father or one of their father's ancestors
+
+namesake
+a person or thing having the same name as another person or thing
+
+Snr
+used after a man's name to refer to the older of two people in the same family who have the same name
+
+Sr.
+used after a man's name to refer to the older of two people in the same family who have the same name
+
+stage name
+the name, different from his or her real name, that an actor or performer is publicly known by
+
+automaker
+a big company that makes cars
+
+cartel
+a group of similar independent companies
+
+Crown corporation
+in Canada, a company that is owned by the government
+
+empire
+a group of countries ruled by a single person, government, or country
+
+est.
+used with a date to show when a company or organization was begun
+
+GmbH
+a legal form of company in German-speaking countries that is similar to limited companies in other countries
+
+head office
+the most important office of an organization or company, or the people working there
+
+Inc.
+used in the names of US companies that are legally established
+
+Incorporated
+a company or goup of companies controlled as one organization
+
+joint-stock company
+a business that is owned by the group of people who have shares in the company
+
+multinational
+involving several different countries
+

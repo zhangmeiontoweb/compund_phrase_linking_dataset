@@ -1,0 +1,51 @@
+﻿1,mother-in-law,the a (gender (parent  of your (spouse,1
+1,sister,a (gender (relative,1
+1,mother,a (gender (parent,1
+1,son,a (gender (child,1
+1,sister-in-law,the (spouse of your (relative,1
+2,daughter-in-law,the (gender who is (spouse of your (child,2
+1,thane,a (gender (leader,1
+2,stepdad,the (gender who is (spouse of person a (gender (parent,2
+1,Niece,a a (gender (child  of your (relative,1
+1,cousin,the (spouse of person (relative  of your a (parent,1
+1,stepchild,the (child of your (spouse,1
+1,grandpa,the a (gender (parent  of a person (parent ,2
+1,granddaughter,the (gender (child of a your (child,1
+1,premier,the (leader of the (government of a (country,1
+1,mother country,the (country of you (birthPlace,1
+2,dowager,a (gender (spouse,2
+1,sovereign,a (title of the highest (leader in various categories ,2
+1,half-brother,a (gender (child  of only one of your (parent,1
+1,grandniece,a (gender (child  (child of the (relative,1
+2,mister,a (title for a (gender,2
+1,matinee idol,a (gender (actor,1
+1,frontman,(leader of a musical (group,1
+2,maternal, (related to person a (gender (parent ,2
+1,patriarch,the (gender (leader of a (family,1
+1,pastor,the (religion (leader,1
+1,the Priesthood,the (position of being a (Priest,1
+1,high Priest,a very important (Priest of (organisation,1
+1,imam,a (leader of Islamic (religion,1
+1,layman,a (membership of a (religion,1
+2,family man,a (gender who has a (spouse and (child,2
+1,matriarch,the (gender (leader,1
+1,ranee,the (spouse of an Indian (leader,1
+1,homeland,the (country of your (birthPlace,1
+2,domestic, (related to a person's own (country,1
+1,fatherland,the (country of your (birthPlace,1
+2,sportsman,a (gender who plays (sport,2
+1,warden,the (head of a (college,1
+2,presidential, (related to a (president,2
+1,leadership,the (position of being the (leader,1
+2,overlord,a person in a (position (power,1
+1,pillar of,a very important (membership of a (group,1
+1,prince,a (gender (child of a (leader,1
+1,chieftain,a (group of (family,1
+1,headman,the (leader of a (group of people,1
+1,ruler,the (leader of a (country,1
+2,schoolgirl,a (gender (child who goes to (School,2
+1,state premier,the (leader of an Australian (state,1
+1,head of state,the official (leader of a (country,1
+2,gubernatorial, (related to a (governor,2
+1,gubernatorial,the official (leader of a (state in the US,1
+2,miss,a (title used before the (family (name of a (gender,2
